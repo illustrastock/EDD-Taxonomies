@@ -1,5 +1,8 @@
 (((unistall)) == ((http://wordpresshelper.net/how-to-delete-custom-taxonomy-terms-in-plugins-uninstall-php/ ))
 
+http://themergency.com/generators/wordpress-custom-taxonomy/
+
+
 === Plugin Name ===
 Contributors: (colomet)
 Donate link: on-lingua.com
